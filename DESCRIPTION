@@ -1,0 +1,20 @@
+Package: feb23youtubePkg01
+Type: Package
+Title: Prints Hello user this franklin first pakg
+Version: 0.1.0
+Author: Franklin Bettencourt
+Maintainer: Franklin Bettencourt <franklinbetten@gmail.com>
+Description: More about what it does (maybe more than one line)
+    Use four spaces when indenting paragraphs within the Description.
+    this is a test to see how enter affects the DESCRIOTION here I wonder if it causes issues
+    Whatif I do not use space to line up before this part? Is that going to cause issues? 
+    ok so noted not having the proper spacing does in fact cause issues here faile build at 10
+    when I had bad spacing there. 
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.1.1
+Suggests: 
+    knitr,
+    rmarkdown
+VignetteBuilder: knitr
