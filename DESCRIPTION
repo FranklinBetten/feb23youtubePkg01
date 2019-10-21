@@ -18,3 +18,5 @@ Suggests:
     knitr,
     rmarkdown
 VignetteBuilder: knitr
+URL: https://github.com/FranklinBetten/feb23youtubePkg01
+BugReports: https://github.com/FranklinBetten/feb23youtubePkg01/issues
