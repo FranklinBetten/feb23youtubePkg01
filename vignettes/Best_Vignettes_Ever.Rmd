@@ -1,0 +1,21 @@
+---
+title: "Best_Vignettes_Ever"
+author: "Franklin Bettencourt"
+date: "'r Sys.Date()'"
+output: rmarkdown::html_vignette
+vignette: >
+  %\VignetteIndexEntry{Best_Vignettes_Ever}
+  %\VignetteEngine{knitr::rmarkdown}
+  %\VignetteEncoding{UTF-8}
+---
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>"
+)
+```
+
+```{r setup}
+library(feb23youtubePkg01)
+```
