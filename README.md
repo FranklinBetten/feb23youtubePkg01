@@ -5,6 +5,8 @@
 
 <!-- badges: start -->
 
+[![Travis build
+status](https://travis-ci.org/FranklinBetten/feb23youtubePkg01.svg?branch=master)](https://travis-ci.org/FranklinBetten/feb23youtubePkg01)
 <!-- badges: end -->
 
 The goal of feb23youtubePkg01 is to make a dummy package for practice so

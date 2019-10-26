@@ -4,20 +4,17 @@
 \alias{printyFunk}
 \title{PrintyFunk}
 \usage{
-printyFunk(x, y, z)
+printyFunk(x, y)
 }
 \arguments{
-\item{z}{}
+\item{y}{}
 }
 \value{
-this returns \code{\link{print}}
+returns a tibble
 }
 \description{
 PrintyFunk
 }
 \examples{
-printyFunk(1, 2, 3)
-\dontrun{
-printyFunk(a, b, c)
-}
+printyFunk(x = rnorm(5), y = rnorm(5))
 }
